@@ -1,75 +1,63 @@
-# E-Commerce Store Analysis
+📊 E-Commerce Store Analysis — Power BI
+📌 Overview
 
-## Description
+This project focuses on analyzing an e-commerce store’s sales, customer behavior, and product performance using Power BI. The goal was to create an interactive dashboard that answers key business questions and helps in data-driven decision-making.
 
-This repository contains a Power Bi dashboard of an E-commerce store to answer questions about the data. The insights of the dashboard can be found in the results.txt file.  This repository can be used as a starting point for anyone who wants to learn how to use Power Bi to analyze data.
-<!--Analyzed E-commerce store data. Created an interactive dashboard using Power BI.-->
+🗂 Dataset
 
-## Screenshot
+The dataset contains historical sales records of an online store, including:
 
-![dashboard preview](https://github.com/avishek09/E-Commerce-Store-Analysis-/assets/75924699/5151c585-882b-4db4-b324-a8cc63256fb4)
+Order details
 
-## Installation
+Product categories
 
-To run this project on your machine you need to install <a href="https://powerbi.microsoft.com/en-us/downloads/">Microsoft Power Bi</a>.
+Customer demographics
 
-<!-- ## Usage
+Sales channels
 
-Provide instructions and examples for use. Include screenshots as needed.
+Geographic data
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+(Dataset file included in the repository)
 
-    ```md
-    ![schema](MusicDatabaseSchema.png)
-    ``` -->
+🎯 Objectives
 
-## Tools
+Analyze overall sales trends over time.
 
-* Microsoft Power BI
+Identify best-selling products and categories.
 
-## Project Learnings
+Evaluate customer purchase patterns.
 
-* Created an interactive dashboard to track and analyze online sales data.
-* Used complex parameters to drill down in worksheet and customization using filters and slicers.
-* Created connections, joined new tables, did calculations to manipulate data, and enabled user-driven parameters for visualization.
-* Used different types of customized visualization (bar chart, pie chart, donut chart, clustered bar chart, scatter chart, line chart, area chart, map, slicers, etc)
+Understand regional sales performance.
 
-## Conclusion
+Create an interactive dashboard for stakeholders.
 
-The project was successful in answering the set of questions about an E-commerce Store's performance. The results of the project can be found in result.txt file.
+🛠 Tools & Technologies
 
+Power BI — Data visualization and dashboard creation
 
-<!--## How to Contribute
+Excel/CSV — Data source
 
-If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.-->
+DAX — Calculations and measures
 
-<!-- ## Questions Answered
+Data Modeling — Table relationships and joins
 
-The following questions are answered by the project:
+📚 Project Learnings
 
-* What are the most popular genres of music?
-* What are the most popular artists?
-* What are the most popular songs?
-* What are the average prices of different types of music?
-* What are the most popular countries for music purchases?
+Designed and developed an interactive Power BI dashboard to track and analyze online sales data.
 
-## Data Set
+Utilized complex parameters, filters, and slicers to enable drill-down functionality and dynamic data exploration.
 
-The data set used for this project is available on GitHub. The data set contains information about the store's customers, music, and sales.
+Created data model relationships, performed table joins, and implemented calculated columns/measures to transform and manipulate data for meaningful analysis.
 
-## Results
+Leveraged a variety of customized visualizations — bar charts, pie charts, donut charts, clustered bar charts, scatter plots, line charts, area charts, maps, and slicers — to present insights effectively.
 
-The results of the project are as follows:
+📌 Conclusion
 
-* The most popular genre of music is pop.
-* The most popular artist is Taylor Swift.
-* The most popular song is "Despacito" by Luis Fonsi and Daddy Yankee.
-* The average price of an album is $10.
-* The most popular country for music purchases is the United States.
+The project successfully addressed the key business questions regarding the e-commerce store’s performance.
+The interactive Power BI dashboard provides actionable insights into sales trends, customer behavior, and product performance, empowering data-driven decision-making.
+Detailed results and findings are documented in the result.txt file.
 
-## Conclusion
-
-The project was successful in answering the set of questions about the store's business performance. The results of the project can be used by the store to make decisions about its marketing and product offerings.
+📷 Dashboard Preview
+<img width="604" height="339" alt="image" src="https://github.com/user-attachments/assets/b7d714f1-b75f-4d92-a04c-11448328e0c1" />
 
 
-I hope this is helpful! -->
